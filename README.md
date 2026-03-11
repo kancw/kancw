@@ -6,5 +6,5 @@ Having relevant skills in  Python, Java, C++, SQL, R, HTML, CSS, JavaScript
 
 [Python cert](certificates/Python%20cert.png)
 
-[Web Development cert](certificates/Web%20Development%20cert.png)
+[Web Development cert](certificates/Web%20Design%20cert.png)
 
