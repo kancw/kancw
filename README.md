@@ -4,7 +4,7 @@ Yet still learning my way through the tech industry.
 
 Having relevant skills in  Python, Java, C++, SQL, R, HTML, CSS, JavaScript
 
-![Python cert](certificates/Python%20cert.png)
+[Python cert](certificates/Python%20cert.png)
 
-![Web Development cert](certificates/Web%20Development%20cert.png)
+[Web Development cert](certificates/Web%20Development%20cert.png)
 
